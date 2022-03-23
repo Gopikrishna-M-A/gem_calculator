@@ -1,0 +1,26 @@
+.color{
+ background-color: rgb(72, 183, 186);
+}
+.btn.color:hover{
+    background-color:rgb(39, 136, 139);
+}
+
+.cont{
+
+    padding: 50px;
+}
+
+.input-group{
+    padding: 10px;
+}
+
+.btn-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    color: black;
+    border: none;
+    width: 200px;
+}
